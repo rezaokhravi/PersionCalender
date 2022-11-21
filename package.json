@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jalali-moment": "^3.3.11",
+    "lodash": "^4.17.21",
     "vue": "^3.2.41"
   },
   "devDependencies": {
